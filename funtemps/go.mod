@@ -1,3 +1,3 @@
-module conv_test.go
+module github.com/mariaathoang/funtemps/funtemps
 
 go 1.19
