@@ -1,3 +1,3 @@
-module github.com/mariaathoang/funtemps/funtemps
+module conv_test.go/conv
 
 go 1.18
